@@ -63,7 +63,7 @@ img {
 }
 .profile__perfil img {
   width: 90px;
- 
+  border-radius: 30px;
 }
 .profile__border{
   border: 3.5px solid var(--first-color);
